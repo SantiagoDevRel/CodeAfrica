@@ -1,1 +1,1 @@
-# CodeAfrica
+# CodeAfrica Online Workshop
